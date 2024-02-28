@@ -2,7 +2,7 @@
 
 Explore Automated Machine Learning in Azure Machine Learning
 
-#1 Criar um recurso Azure Machine Learning
+# 1 Criar um recurso Azure Machine Learning
 
 Criar um recurso do tipo workspace da Azure Machine Learning. Para isso, procurar em "Todos os serviços" por "Azure Machine Learning".
 
@@ -19,7 +19,7 @@ Revise e selecione Criar para confirmar.
 
 Aguarde alguns minutos até que conclua a criação da workspace.
 
-#2 Iniciar o Machine Learning Studio
+# 2 Iniciar o Machine Learning Studio
 
 Após concluir a criação da workspace, clicar na workspace criada, e em seguida clicar em "Iniciar o estúdio".
 
@@ -28,7 +28,7 @@ Caso não encontre o recurso criado, acesse no menu lateral esquero o item "Todo
 ![](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image3.png)
 
 
-#3 Treinar um modelo
+# 3 Treinar um modelo
 
 No Azure Machine Learning Studio acesse no menu a esquerda o ML Automatizado.
 
@@ -73,7 +73,7 @@ O modelo será então processado por cerca de 15 minutos.
 ![](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image6.png)
 
 
-Verificando o Modelo
+# 4 Verificando o Modelo
 
 Com o processamento concluído, poderá ser possível avaliar o modelo. Basta clicar no nome dos algoritmos do modelo.
 
@@ -85,7 +85,7 @@ No modelo gerado, acesse então a aba de métricas.
 ![](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image8.png)
 
 
-Deploy e disponibilização de API
+# 5 Deploy e disponibilização de API
 
 Na aba "Modelo" selecione "Implantar".
 
