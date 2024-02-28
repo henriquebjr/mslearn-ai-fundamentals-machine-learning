@@ -102,7 +102,7 @@ Confirme clicando em "Implantar".
 
 Em tarefas é possível acompanhar.
 
-Quando concluído, estará disponível no item "Pontos de extermidade" do menu a esquerda.
+Quando concluído, estará disponível no item "Pontos de extremidade" do menu a esquerda.
 
 ![](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image11.png)
 
@@ -115,3 +115,10 @@ Preencha o json conforme a previsão desejada e clique em testar:
 
 
 
+### Entrada de dados utilizado no teste (Pontos de extremidade)
+
+[input.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/input.json)
+
+### Resultado no teste (Pontos de extremidade)
+
+[result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/result.json)
