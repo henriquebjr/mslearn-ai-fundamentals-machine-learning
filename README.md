@@ -5,13 +5,12 @@ Explore Automated Machine Learning in Azure Machine Learning
 #1 Criar um recurso Azure Machine Learning
 
 Criar um recurso do tipo workspace da Azure Machine Learning. Para isso, procurar em "Todos os serviços" por "Azure Machine Learning".
-
-
+!(https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image1.png)
 
 Selecionar, abrirá uma lista vazia. Clique então em criar.
 
 Necessário informar assinatura (subscription), nome do grupo do recurso (crie um), nome da workspace e região. Rede deixe como pública. Storage account, key vault e application insights pode deixar os valores padrão.
-
+![Alt ou título da imagem](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image2.png)
 
 
 Revise e selecione Criar para confirmar.
@@ -24,6 +23,7 @@ Após concluir a criação da workspace, clicar na workspace criada, e em seguid
 
 Caso não encontre o recurso criado, acesse no menu lateral esquero o item "Todos recursos" e então pelo item do tipo "Workspace do Azure Machine Learning". Clique nele que abrirá a opção para iniciar o estúdio.
 
+![](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-machine-learning/main/images/image3.png)
 
 
 #3 Treinar um modelo
